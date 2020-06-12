@@ -1,2 +1,2 @@
 # dockerproj
-this is for Docker workflow
+[![CircleCI](https://circleci.com/gh/JSourabh/dockerproj.svg?style=svg)](https://circleci.com/gh/JSourabh/dockerproj)
